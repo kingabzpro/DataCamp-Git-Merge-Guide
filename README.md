@@ -1,3 +1,3 @@
-# How to Resolve Git Merge Conflict a DataCamp Tutorial
+# How to Resolve Sit-Merge Conflict
 New change in base branch
 
